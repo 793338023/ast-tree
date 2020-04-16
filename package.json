@@ -1,0 +1,20 @@
+{
+  "name": "ast-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^1.14.1",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.0.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.0",
+    "path": "^0.12.7"
+  }
+}
